@@ -1,0 +1,47 @@
+{
+    "Main": {
+        "Playing": "Matrié 💚 Cèsh",
+        "GuildID": "966045098146156555",
+        "Tag": "Cèsh",
+        "EtiketTag": "#0414"
+    },
+    
+    "Staffs": {
+        "RegisterHammer": "",
+        "BanHammer":" ",
+        "JailHammer": "",
+        "MuteHammer": ""
+    },
+    
+    "Register": {
+        "ManRole": "",
+        "WomanRole": "",
+        "Unregister": "",
+        "Suspicius": "",
+        "Tag": "",
+        "Untag": "",
+        "BoosterRole": ""
+    },
+
+    "Criminals": {
+        "MuteRole": "",
+        "JailRole": ""
+    },
+    
+    "Logs": {
+        "BanLog": "",
+        "MuteLog": "",
+        "JailLog": "",
+        "RegLog": ""
+    },
+
+    "Channels": {
+        "Welcome": ""
+    },
+
+    "Footer": ["927598578757664769"],
+
+    "Yes": "",
+    "No": ""
+
+}
