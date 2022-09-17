@@ -11,7 +11,7 @@
 </p> 
 
 <p align="center" style="float:left;">
-<a href="https://discord.gg/safecode"><img width="170" src="https://img.shields.io/badge/Safe Code%20-132287.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/sVQqB4d5"><img width="170" src="https://img.shields.io/badge/Serendia Squad%20-132287.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 
